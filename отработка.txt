@@ -16,6 +16,15 @@ https://docs.google.com/presentation/d/1rcVQxANU7JfHWOeTgUJ9kW4aye6D181sRvWvu9bY
 геймдизайн 21
 https://docs.google.com/presentation/d/1gXZ_sFOQNsF43Dq7KiQnRhBJfivY-3kOpq-TcixKSdc/edit#slide=id.g7670dd1bee_1_0
 
+геймдизайн 23
+https://docs.google.com/presentation/d/1RuLX2SMyOQ6U9XBSlH3K-6RuPZcWiAAmpVuU7Mvd7_8/edit#slide=id.g7670dd1bee_1_0
+
+геймдизвайн 24
+https://docs.google.com/presentation/d/1ecS1jJKI3y4MS5DXo2ODOmZj2HaxpM3P0QKB5ijDuc4/edit#slide=id.g7670dd1bee_1_0
+
+геймдизайн 5
+https://docs.google.com/presentation/d/1PR6rjgT8utW7FW6yL7Y9LDl3ZO0OLd8pFQD7ACfKxsA/edit#slide=id.g7670dd1bee_1_0 преза
+
 ГЕЙМДИЗАЙН
 
 
@@ -41,6 +50,10 @@ https://docs.google.com/document/d/1uYsen0shCiZ8CsPdFKDi9VtMrc4qPCg3zgWFxmQ9kHM/
 пайтон1 21
 https://docs.google.com/presentation/d/1KaTkH_HwdC76v_2BcFhB0SJ6lE7CV4vYXeyejFLyPzw/edit#slide=id.g7670dd1bee_1_0 преза
 https://docs.google.com/document/d/1sUaGluH91WlzLRJRYUt3Oi1T3aMKE0FyfDg062EJjDA/edit#heading=h.df28o1d0q1p методичка
+
+пайто1 22
+https://docs.google.com/presentation/d/1WKKTjh3kw5uQzyR5kxk0opzhwnfpi60Rara1Y8XpuWY/edit#slide=id.g7670dd1bee_1_0 преза
+https://docs.google.com/document/d/19_0oiTMyGTavgPqGbAoq-Iu9ocCgaUxMXdsuVHPyy0Q/edit#heading=h.df28o1d0q1p метода
 
 пайтон1 занятие 15 
 https://docs.google.com/presentation/d/14mJepdDkA4O9ay9CWN-1Wa-5b1dnYY5VpPIuNgRg7mw/edit презентация 
@@ -78,6 +91,10 @@ https://docs.google.com/document/d/1b3QEAKgfxt_-9Gt75KWVHeN2B-BiiFgJi_z0F_ovXGA/
 
 
 СОЗДАНИЕ ВЕБ САЙТОВ
+свс 22 
+https://docs.google.com/presentation/d/13b_cYX-wzZLPkEcIE_zkXN996OlRJ3uYhByOkiDBtmM/edit преза
+https://docs.google.com/document/d/1Lmn6Pyxw6A4ipKb4jTUA2jBw_6R9CqTKSCuwI8LWGvY/edit#heading=h.nzdb7pi6sa18 метода
+
 СВС 20
 https://docs.google.com/document/d/1e3GmyNHWiL3i2bLmaLzdElV6f5tYzbS6sneMmL_6_VUk/edit методичка
 https://docs.google.com/presentation/d/1ELBmWJ1eJZnVWw-e58O7BPvZeCMyzhvNyw6dGxou7gc/edit#slide=id.g7670dd1bee_1_0презентация
@@ -91,9 +108,13 @@ https://docs.google.com/presentation/d/1W6HU9F-e0Iqx1B340FCrw2oencfHYpTPqDSPz_Kj
 СОЗДАНИЕ ВЕБ САЙТОВ
 
 
+
 КОМПЬЮТЕРНАЯ ГРАМОТНОСТЬ 
 КГ19
 https://docs.google.com/presentation/d/1Ge640BzeFwi5RkImqOOD8yayFvXC_v7vaN7-PEPeVNQ/edit#slide=id.g7670dd1bee_1_0
+
+кг21
+https://docs.google.com/presentation/d/1rlSuqKmHHVqj3AmWwBR0druX4YkacfuYntc3fIXBeaU/edit презентация
 
 кг 22
 https://docs.google.com/presentation/d/1zB54coyWm64pUKXoq_bvnxK3ovksVFn7ppRNlXcYJOY/edit#slide=id.g7670dd1bee_1_0
@@ -129,3 +150,6 @@ https://docs.google.com/presentation/d/1m3-_rNTNLWmq6LAqcZAFSG3v1yhwGKpCFEW0wNHM
 ОФР21
 
 https://lms.algoritmika.org/task-preview/30338?track=1&lesson=11028&position=1  трек
+
+офр23
+https://lms.algoritmika.org/task-preview/31247?track=1&lesson=11030&position=1 трек
